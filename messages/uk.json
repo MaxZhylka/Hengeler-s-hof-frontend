@@ -15,7 +15,16 @@
     "contacts": "Контакти",
     "palettes": "Палітри",
     "settings": "Налаштування",
+    "mainpage": "Головна сторінка",
     "logout": "Вийти"
+  },
+  "AdminSlides": {
+    "createSlide": "Створити Слайд",
+    "name": "Назва",
+    "save": "Зберегти",
+    "chooseImage": "Вибрати зображення",
+    "slideText": "Текст слайду",
+    "slideTextPlaceholder": "Введіть текст слайду тут..."
   },
   "NavBar": {
     "booking": "Бронювання",

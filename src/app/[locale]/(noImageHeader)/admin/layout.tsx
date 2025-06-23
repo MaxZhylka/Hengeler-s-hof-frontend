@@ -32,6 +32,10 @@ export default function Home({
             , pathname.includes("settings") && "after:scale-x-100")}>
             {t("settings")}
           </Link>
+          <Link href={"./mainpage"} className={clsx("relative inline-block after:block after:h-[2px] after:bg-[var(--accent)] after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-300 after:origin-center"
+            , pathname.includes("mainpage") && "after:scale-x-100")}>
+            {t("mainpage")}
+          </Link>
         </div>
       </nav>
       {children}

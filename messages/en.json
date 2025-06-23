@@ -15,6 +15,7 @@
     "contacts": "Contacts",
     "palettes": "Palettes",
     "settings": "Settings",
+    "mainpage": "Main Page",
     "logout": "Logout"
   },
   "NavBar": {
@@ -368,6 +369,27 @@
       "validFrom": "This privacy policy is valid from June 15, 2024.",
       "changes": "We reserve the right to make changes when necessary."
     }
+  },
+  "AdminEvents": {
+    "createEvent": "Create Event",
+    "name": "Name",
+    "begin": "Start",
+    "end": "End",
+    "time": "Time",
+    "oneDay": "One-day event",
+    "multiDay": "Multi-day event",
+    "save": "Save",
+    "chooseImage": "Choose Image",
+    "eventText": "Event Text",
+    "eventTextPlaceholder": "Enter event text here..."
+  },
+  "AdminSlides": {
+    "createSlide": "Create Slide",
+    "name": "Name",
+    "save": "Save",
+    "chooseImage": "Choose Image",
+    "slideText": "Slide Text",
+    "slideTextPlaceholder": "Enter slide text here..."
   },
   "Imprint": {
     "title": "Legal Notice",

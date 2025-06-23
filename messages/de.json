@@ -15,7 +15,29 @@
     "contacts": "Kontakte",
     "palettes": "Paletten",
     "settings": "Einstellungen",
+    "mainpage": "Hauptseite",
     "logout": "Abmelden"
+  },
+  "AdminEvents": {
+    "createEvent": "Veranstaltung erstellen",
+    "name": "Name",
+    "begin": "Beginn",
+    "end": "Ende",
+    "time": "Uhrzeit",
+    "oneDay": "Eintägige Veranstaltung",
+    "multiDay": "Mehrtägige Veranstaltung",
+    "save": "Speichern",
+    "chooseImage": "Bild auswählen",
+    "eventText": "Veranstaltungstext",
+    "eventTextPlaceholder": "Hier können Sie den Text für die Veranstaltung eingeben. Er wird auf der Veranstaltungsseite angezeigt auf"
+  },
+  "AdminSlides": {
+    "createSlide": "Slide erstellen",
+    "name": "Name",
+    "save": "Speichern",
+    "chooseImage": "Bild auswählen",
+    "slideText": "Slide-Text",
+    "slideTextPlaceholder": "Hier können Sie den Text für den Slide eingeben. Er wird auf der Hauptseite angezeigt."
   },
   "MainMap": {
     "title": "Wie findet man uns?",
